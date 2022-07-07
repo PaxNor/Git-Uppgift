@@ -9,5 +9,9 @@
         public string Conflict { get; set; }
         public int ZahedsBranch {get; set; }
 
+        public int MyProperty { get; set; }
+
+
+
     }
 }

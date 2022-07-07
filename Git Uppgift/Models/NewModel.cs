@@ -10,5 +10,7 @@
         public string Description { get; set; }
 
         public int MyGit { get; set; }
+
+        public int Test { get; set; }
     }
 }
