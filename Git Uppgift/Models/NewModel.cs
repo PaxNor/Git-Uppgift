@@ -1,5 +1,8 @@
 ﻿namespace Git_Uppgift.Models
 {
+    /*
+     * lägger till en kommentar för att testa ett till commit
+     */
     public class NewModel
     {
         public int Id { get; set; }
