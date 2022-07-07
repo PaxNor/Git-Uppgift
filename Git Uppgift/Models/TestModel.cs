@@ -6,6 +6,7 @@
         public string Test { get; set; }
 
         // Test Kommentar
+        public string Conflict { get; set; }
 
     }
 }
