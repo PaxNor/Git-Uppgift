@@ -12,6 +12,6 @@
         public int MyGit { get; set; }
 
         public int thing { get; set; }
-        public int one { get; set; }
+        public int test { get; set; }
     }
 }
