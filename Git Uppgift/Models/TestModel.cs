@@ -8,5 +8,7 @@
         // Test Kommentar
         public string Conflict { get; set; }
 
+        public int MyProperty { get; set; }
+
     }
 }
